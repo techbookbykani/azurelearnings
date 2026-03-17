@@ -9,7 +9,6 @@ sudo add-apt-repository universe
 sudo add-apt-repository restricted
 sudo add-apt-repository multiverse
 
-
 # Install Nginx.
 sudo apt-get install -y nginx
 
